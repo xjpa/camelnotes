@@ -1,0 +1,7 @@
+.DS_Store
+
+camelnotes
+*.cmi
+*.cmo
+*.cmx
+*.o
